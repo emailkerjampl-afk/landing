@@ -1942,7 +1942,7 @@
   </div>
 </div>               
 <style>
-    .amavi5d-fixed-footer {
+    .ladangtoto-fixed-footer {
             display: flex;
             justify-content: space-around;
             position: fixed;
@@ -1960,7 +1960,7 @@
             
         }
 
-        .amavi5d-fixed-footer a {
+        .ladangtoto-fixed-footer a {
             flex-basis: calc((100% - 15px*6)/ 5);
             text-decoration: none;
             display: flex;
@@ -1973,11 +1973,11 @@
             font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
-        .amavi5d-fixed-footer a:hover {
+        .ladangtoto-fixed-footer a:hover {
             font-weight: bold;
         }
 
-        .amavi5d-fixed-footer .center {
+        .ladangtoto-fixed-footer .center {
             transform: scale(1.5) translateY(-5px);
             background: center no-repeat;
             background-size: contain;
@@ -1985,13 +1985,13 @@
             border-radius: 50%;
         }
 
-        .amavi5d-fixed-footer img {
+        .ladangtoto-fixed-footer img {
             max-width: 20px;
             margin-bottom: 0;
             max-height: 20px;
         }
 </style>
-<div class="amavi5d-fixed-footer">
+<div class="ladangtoto-fixed-footer">
     <a href="https://futsal.b-cdn.net/ampmartincroce.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://futsal.b-cdn.net/ladangtoto-logo.jpg" alt="DAFTAR">
         Daftar
